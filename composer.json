@@ -6,7 +6,7 @@
     "OSL-3.0"
   ],
   "require": {
-    "magento/framework": "^100"
+    "magento/framework": "^100|^101|^102|^103|^104"
   },
   "type": "magento2-language",
   "autoload": {
