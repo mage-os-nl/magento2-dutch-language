@@ -1,0 +1,17 @@
+{
+  "name": "mage-os-nl/magento2-dutch-language",
+  "description": "Dutch language pack for Magento 2",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "require": {
+    "magento/framework": "^100"
+  },
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
