@@ -887,7 +887,6 @@ Add,Toevoegen,module,Magento_Shipping
 "Add to tree.","Voeg toe aan boom.",module,Magento_VersionsCms
 "Add to:","Toevoegen aan:",module,Magento_MultipleWishlist
 "Add video","Video toevoegen",module,Magento_ProductVideo
-"Add your comment","Voeg opmerking toe",module,Magento_NegotiableQuote
 Add/Update,Toevoegen/Updaten,module,Magento_ImportExport
 "Add/Update Address","Add/Update Address",module,Magento_Customer
 "Add/Update Complex Data","Toevoegen/Updaten complexe data",module,Magento_ImportExport
@@ -5991,6 +5990,7 @@ Order,Order,module,Magento_Sales
 "Order Subtotal (and above)","Bestelling subtotaal (en hoger)",module,Magento_OfflineShipping
 "Order Success","Bestelling succes",module,Magento_Multishipping
 "Order Summary","Overzicht van bestelling",module,Magento_Checkout
+"Order Summary","Overzicht van bestelling",module,Loki_Checkout
 "Order Taxes Report Grouped by Tax Rate","Bestelling BTW rapport gegroepeerd op BTW-tarief",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Order BTW rapport gegroepeerd door BTW tarieven",module,Magento_Reports
 "Order Total","Totale bestellingen",module,Magento_Reports
