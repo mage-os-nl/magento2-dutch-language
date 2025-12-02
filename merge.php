@@ -1,8 +1,6 @@
 <?php
 declare(strict_types=1);
 
-require_once __DIR__ . '/../../../vendor/autoload.php';
-
 $fromFile = $argv[1];
 if (!file_exists($fromFile)) {
     throw new InvalidArgumentException('File does not exist');
